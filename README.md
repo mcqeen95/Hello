@@ -1,3 +1,3 @@
 # Hello
 
-###we gonna learn git&gitgub
+###we gonna learn git&github
